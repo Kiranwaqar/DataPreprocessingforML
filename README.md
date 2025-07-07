@@ -8,22 +8,21 @@ This project focuses on **preprocessing customer churn data** to prepare it for 
 
 [▶️ Watch Demo on YouTube](https://youtu.be/RZk1biP-kSY)
 
+https://github.com/user-attachments/assets/a853ca22-5ab7-4822-8fd6-3229102a3256
+
 ---
-
-
-Uploading demo.mp4…
 
 
 ## 📁 Project Structure
 
 Level_1_Task_1/
-│
-├── preprocess.py # Python script for preprocessing
-├── churn-bigml-80.csv # Raw dataset (local only, not pushed)
-├── venv/ # Python virtual environment
-├── demo.mp4 # Video demonstration of the project
-├── README.md # Project documentation
-├── .gitignore # Git ignored files list
+
+- preprocess.py # Python script for preprocessing
+- churn-bigml-80.csv # Raw dataset (local only, not pushed)
+- venv/ # Python virtual environment
+- demo.mp4 # Video demonstration of the project
+- README.md # Project documentation
+- .gitignore # Git ignored files list
 
 ---
 
@@ -95,12 +94,14 @@ pip install -r requirements.txt
 
 # Run preprocessing script
 python preprocess.py
-
+```
 ---
 
 ## 🙋‍♀️ Author
 Kiran Waqar
+
 Second-Year Software Engineering Student
+
 Passionate about Machine Learning and AI
 
 ---
@@ -113,4 +114,8 @@ Evaluate performance using accuracy, precision, recall
 Deploy the model using Flask/Streamlit
 
 Add user input features for predictions
+
+
+
+
 
